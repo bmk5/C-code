@@ -1,0 +1,23 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+
+# Executables
+*.exe
+*.out
+webserver
+
+*.gif
+*.html
+*.text
+*.jpg
+
+web.c
+sample.pdf
+
+
+*.json
+*~
